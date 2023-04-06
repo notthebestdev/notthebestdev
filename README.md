@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/notthebestdev?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/notthebestdev?style=social)
+
 <!--
 **notthebestdev/notthebestdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
