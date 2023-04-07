@@ -1,4 +1,4 @@
-### Hi there, i'm TheBestDevloper 👋
+### Hi there, i'm TheBestDeveloper 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/notthebestdev?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/notthebestdev?style=social)
 
