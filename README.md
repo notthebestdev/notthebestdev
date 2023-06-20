@@ -1,4 +1,8 @@
-### Hi there, i'm TheBestDeveloper 👋
+### Hi there, i'm TheBestDeveloper 👋 (also know as justinnrblx)
+
+<p align="center">
+  <br>
+  <img src="https://lanyard.cnrad.dev/api/759076162935717901">
 
 ![GitHub followers](https://img.shields.io/github/followers/notthebestdev?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/notthebestdev?style=social)
 
@@ -15,4 +19,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Shortcuts on IOS, because i know them good...**
 - 📫 How to reach me: **Need a good developer.**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I am crazy sometimes!**
