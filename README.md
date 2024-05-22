@@ -1,15 +1,19 @@
-# 💫 About Me:
-Hey there! 👋<br><br>I'm TheBestDeveloper, diving into Full Stack Development with a big smile.<br>Coding is my playground, and I'm on a mission to conquer it.<br><br>Join me in this coding escapade, and let's create some magic! 🚀✨
+<!-- Hey! That's my README file. Please don't copy this file :( -->
 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=notthebestdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=notthebestdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notthebestdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=notthebestdev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center" width="100%">
+    <img src="https://justinn.dev/profile.webp" width="128" alt="" />
+    <h1>TheBestDeveloper</h1>
+    <h2>Full Stack Developer</h2>
+    <br>
+    <p>The best one out there.</p>
+    <a href="https://discord.com/users/759076162935717901">
+  <img src="https://lanyard.cnrad.dev/api/759076162935717901" alt="Discord Presence">
+</a>
+  <br><br>
+    <a href="https://discord.com/users/759076162935717901" target="_blank" title="Discord">
+           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="32" alt="" />
+        </a>
+  <a href="https://github.com/notthebestdev" target="_blank" title="GitHub">
+           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" width="32" alt="" />
+        </a>
+</div>
