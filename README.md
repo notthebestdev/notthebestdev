@@ -14,6 +14,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 45 mins   ████████████▓░░░░░░░░░░░░   50.64 %
+JSON         1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Markdown     1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+YAML         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+HTML         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
