@@ -30,3 +30,7 @@ HTML          35 mins         █▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## 👾 Discord Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/759076162935717901?showDisplayName=true)](https://discord.com/users/759076162935717901)
