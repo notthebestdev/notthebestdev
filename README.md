@@ -4,6 +4,8 @@
 
 <h1 align="center">👋 Hello, I'm TheBestDeveloper</h1>
 
+[![committers.top badge](https://user-badge.committers.top/france/notthebestdev.svg)](https://user-badge.committers.top/france/notthebestdev)
+
 <p align="center">
   <a href="https://discord.com/users/759076162935717901" target="_blank" title="Discord">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="32" alt="Discord" />
