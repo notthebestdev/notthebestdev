@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/notthebestdev/notthebestdev/commit/a2780cc4d93b85ec3737233f8fbb6f8efe89af8f\"><strong>a</strong>2780cc4d93b85ec3737233f8fbb6f8efe89af8f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/notthebestdev/developerkit/commit/abbb9d44c363b0a2a088367f5130e7563dc6a64f\"><strong>ab</strong>bb9d44c363b0a2a088367f5130e7563dc6a64f</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/aed4dbbb179904e576a90a45cd020946fb1b6dcc\">aed4dbb</a>: chore: update devDependencies and remove unused packages\n\n- Updated @types/node from ^24.7.1 to ^24.9.1\n- Updated discord-api-types from ^0.38.29 to ^0.38.30\n- Removed eslint and related packages from devDependencies\n- Removed typescript-eslint from devDependencies\n- Removed jiti from dependencies",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c931fd1550c89afdf77261cafa7cb00fb0d88f41\">c931fd1</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/e87d119328ac487d1b67f38b5fe74aa5d0fd5c22\">e87d119</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 102 times)\n2. add (used 87 times)\n3. updated (used 74 times)\n4. readme.md (used 52 times)\n5. workflow (used 51 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/vesktop.dev/commit/6499cd48c8a51f6859643653ec8b95f901ddb032\">6499cd4</a>: fix: oops\n- <a href=\"https://github.com/notthebestdev/vesktop.dev/commit/9112a39e20bc190ba783182555ecbd67111c2d2f\">9112a39</a>: fix(docs): update homebrew installation command for macOS\n\n* Changed installation command to use --cask for Vesktop\n* Ensures correct installation method for users",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/performancemode/commit/a2a08f5622ccbaa5b72cf4bf45a62ce646dc6481\">a2a08f5</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1632\">#1632</a>: [THEME] mcpedl.com\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1710\">#1710</a>: [THEME] pagespeed.web.dev\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1558\">#1558</a>: [THEME] www.userscript.zone\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1588\">#1588</a>: [THEME] www.apple.com",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/e74d12e4a28ca7d44f93e491b1cb7ffe52c7f52a\">e74d12e</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/f407679f82d6e1f75f88c01c8b3d949351df863b\">f407679</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/8031dd250b926831f8da4e6272134a1d6e857a6e\">8031dd2</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/ba3eaff15cbb8e72c9d43be1202d281af2238ff0\">ba3eaff</a>\n- <a href=\"https://github.com/notthebestdev/chaotic-hello-world/commit/cb3ad004aa6e55992ba0c9d925dca30308dda645\">cb3ad00</a>\n- <a href=\"https://github.com/notthebestdev/chaotic-hello-world/commit/bdcb81c7e04e061433050065c3238ee7608146e8\">bdcb81c</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/fd09e5d5ede8a75b2e0577130eba876bc8a63e9e\">fd09e5d</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/785f26c73c964ce853327a92d650cda3148435df\">785f26c</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/99c3d2f5527a6f45b90d679eba82fdc386ad259a\">99c3d2f</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c064dc17ae0a66660ce60bbcea470ed7de6110e4\">c064dc1</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c349a3840073b011a3ba90c15fbd6f8799ef3874\">c349a38</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/214e1bccf94d7ba1501491317cde764525662131\">214e1bc</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/developerkit/commit/c0f4ce17b24c758281ef8f579796929184d2e2e2\">c0f4ce1</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/9920affb0f66a3106eced207e6cd83118fa84d0c\">9920aff</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/0f4ab996a7b9a1d2eeee48d74775fbbc57febdfa\">0f4ab99</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/eba15f29fbf13e9ee9f1da4d08c4294b1c76fa59\">eba15f2</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/787c5bf395147f7b5b7cbed0a243cba1b68f822c\">787c5bf</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/b5e02f58baea0c74c80e1921ff7ce10d4b504a2e\">b5e02f5</a>\n- <a href=\"https://github.com/notthebestdev/vencord-minecraft-font/commit/a5d76eb8a38eeabd2131b4332a8c2d4b8b7683b8\">a5d76eb</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
