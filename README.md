@@ -20,6 +20,11 @@
 - I make cool things on the internet. Check out [my portfolio](https://justinn.dev) for more!
 
 
+## 🏅 Badges
+
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
