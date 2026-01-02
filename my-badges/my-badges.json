@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/aed4dbbb179904e576a90a45cd020946fb1b6dcc\">aed4dbb</a>: chore: update devDependencies and remove unused packages\n\n- Updated @types/node from ^24.7.1 to ^24.9.1\n- Updated discord-api-types from ^0.38.29 to ^0.38.30\n- Removed eslint and related packages from devDependencies\n- Removed typescript-eslint from devDependencies\n- Removed jiti from dependencies",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/892cbef7119425b8e40dc31afaac3900035d2d6d\">892cbef</a>: chore: format project and regenerate types\n\n- update package-lock.json to remove \"peer\" and format\n- regenerate types\n- format \"index.ts\"",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 108 times)\n2. add (used 100 times)\n3. updated (used 97 times)\n4. new (used 74 times)\n5. workflow (used 57 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 110 times)\n2. add (used 100 times)\n3. updated (used 98 times)\n4. new (used 75 times)\n5. workflow (used 57 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/fd09e5d5ede8a75b2e0577130eba876bc8a63e9e\">fd09e5d</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/785f26c73c964ce853327a92d650cda3148435df\">785f26c</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/99c3d2f5527a6f45b90d679eba82fdc386ad259a\">99c3d2f</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c064dc17ae0a66660ce60bbcea470ed7de6110e4\">c064dc1</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c349a3840073b011a3ba90c15fbd6f8799ef3874\">c349a38</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/214e1bccf94d7ba1501491317cde764525662131\">214e1bc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/892cbef7119425b8e40dc31afaac3900035d2d6d\">892cbef</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/fd09e5d5ede8a75b2e0577130eba876bc8a63e9e\">fd09e5d</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/785f26c73c964ce853327a92d650cda3148435df\">785f26c</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/99c3d2f5527a6f45b90d679eba82fdc386ad259a\">99c3d2f</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c064dc17ae0a66660ce60bbcea470ed7de6110e4\">c064dc1</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c349a3840073b011a3ba90c15fbd6f8799ef3874\">c349a38</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {

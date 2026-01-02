@@ -4,13 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/notthebestdev/someoneback/commit/aed4dbbb179904e576a90a45cd020946fb1b6dcc">aed4dbb</a>: chore: update devDependencies and remove unused packages
+- <a href="https://github.com/notthebestdev/someoneback/commit/892cbef7119425b8e40dc31afaac3900035d2d6d">892cbef</a>: chore: format project and regenerate types
 
-- Updated @types/node from ^24.7.1 to ^24.9.1
-- Updated discord-api-types from ^0.38.29 to ^0.38.30
-- Removed eslint and related packages from devDependencies
-- Removed typescript-eslint from devDependencies
-- Removed jiti from dependencies
+- update package-lock.json to remove "peer" and format
+- regenerate types
+- format "index.ts"
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
