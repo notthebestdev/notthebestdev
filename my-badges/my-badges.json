@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 112 times)\n2. updated (used 102 times)\n3. add (used 101 times)\n4. new (used 81 times)\n5. workflow (used 57 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 112 times)\n2. updated (used 103 times)\n3. add (used 101 times)\n4. new (used 82 times)\n5. waka-readme (used 58 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -96,5 +96,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/notthebestdev/commit/96f3f2ec581b72ba05d6e6d8a3281d4e0415b321\">96f3f2e</a>\n- <a href=\"https://github.com/notthebestdev/performancemode/commit/e98f16eb17207fcf4036a0f3b1801235aa23b42f\">e98f16e</a>\n- <a href=\"https://github.com/notthebestdev/performancemode/commit/02ad598348f6a38348e34722ccb623a78df29ed7\">02ad598</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
