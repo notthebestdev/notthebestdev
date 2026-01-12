@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. update (used 112 times)
-2. updated (used 106 times)
+1. update (used 113 times)
+2. updated (used 107 times)
 3. add (used 101 times)
-4. new (used 85 times)
-5. waka-readme (used 61 times)
+4. new (used 86 times)
+5. waka-readme (used 62 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
