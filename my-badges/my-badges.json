@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updated\".",
-    "body": "My favorite commit message words are:\n\n1. updated (used 122 times)\n2. update (used 116 times)\n3. add (used 106 times)\n4. new (used 101 times)\n5. waka-readme (used 73 times)",
+    "body": "My favorite commit message words are:\n\n1. updated (used 123 times)\n2. update (used 116 times)\n3. add (used 106 times)\n4. new (used 102 times)\n5. waka-readme (used 74 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1632\">#1632</a>: [THEME] mcpedl.com\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1710\">#1710</a>: [THEME] pagespeed.web.dev\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1558\">#1558</a>: [THEME] www.userscript.zone\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1588\">#1588</a>: [THEME] www.apple.com",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1632\">#1632</a>: [THEME] mcpedl.com\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1710\">#1710</a>: [THEME] pagespeed.web.dev\n- <a href=\"https://github.com/electrikmilk/cherri/issues/146\">#146</a>: Panic / infinite include resolution with getDictionary() when using actions/web\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1558\">#1558</a>: [THEME] www.userscript.zone\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1588\">#1588</a>: [THEME] www.apple.com",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/892cbef7119425b8e40dc31afaac3900035d2d6d\">892cbef</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/fd09e5d5ede8a75b2e0577130eba876bc8a63e9e\">fd09e5d</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/785f26c73c964ce853327a92d650cda3148435df\">785f26c</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/99c3d2f5527a6f45b90d679eba82fdc386ad259a\">99c3d2f</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c064dc17ae0a66660ce60bbcea470ed7de6110e4\">c064dc1</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c349a3840073b011a3ba90c15fbd6f8799ef3874\">c349a38</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/notthebestdev/commit/e9a0f25e2c974cfe3c6264e1d783d2b34ad5f1d6\">e9a0f25</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/892cbef7119425b8e40dc31afaac3900035d2d6d\">892cbef</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/fd09e5d5ede8a75b2e0577130eba876bc8a63e9e\">fd09e5d</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/785f26c73c964ce853327a92d650cda3148435df\">785f26c</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/99c3d2f5527a6f45b90d679eba82fdc386ad259a\">99c3d2f</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/c064dc17ae0a66660ce60bbcea470ed7de6110e4\">c064dc1</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
