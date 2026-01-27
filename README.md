@@ -5,6 +5,10 @@
 <h1 align="center">👋 Hello, I'm TheBestDeveloper</h1>
 
 <p align="center">
+<a href="https://wakatime.com/@45d3003d-8de9-4e31-aca7-091696c991d6"><img src="https://wakatime.com/badge/user/45d3003d-8de9-4e31-aca7-091696c991d6.svg" alt="Total time coded since Oct 24 2025" /></a>
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/759076162935717901" target="_blank" title="Discord">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="32" alt="Discord" />
   </a>
