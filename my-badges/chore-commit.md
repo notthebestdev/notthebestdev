@@ -4,11 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/notthebestdev/someoneback/commit/892cbef7119425b8e40dc31afaac3900035d2d6d">892cbef</a>: chore: format project and regenerate types
-
-- update package-lock.json to remove "peer" and format
-- regenerate types
-- format "index.ts"
+- <a href="https://github.com/notthebestdev/someoneback/commit/7c85a84b43f5ce08cb387ad014ac15b4acbf61b1">7c85a84</a>: chore: add mergify configuration
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
