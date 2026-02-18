@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/notthebestdev/someoneback/commit/7c85a84b43f5ce08cb387ad014ac15b4acbf61b1">7c85a84</a>: chore: add mergify configuration
+- <a href="https://github.com/notthebestdev/someoneback/commit/8631a336707d5dfdcfbe3e5f1b52f2c04828ab48">8631a33</a>: chore(dependencies): update eslint and globals packages
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
