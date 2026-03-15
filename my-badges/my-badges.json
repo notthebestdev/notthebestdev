@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updated\".",
-    "body": "My favorite commit message words are:\n\n1. updated (used 161 times)\n2. new (used 146 times)\n3. update (used 130 times)\n4. add (used 119 times)\n5. waka-readme (used 110 times)",
+    "body": "My favorite commit message words are:\n\n1. updated (used 162 times)\n2. new (used 147 times)\n3. update (used 130 times)\n4. add (used 121 times)\n5. waka-readme (used 111 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/ad63614e4a8714c752c35edb4a469e3d0d481c8a\">ad63614</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/104c9af7f8c53b97766e4f8044587da8fdc90769\">104c9af</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/780eb0302e679161deb9516203a0728e3ca843c2\">780eb03</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/16270cc8341eb162dd34f075b990895d36be28b1\">16270cc</a>\n- <a href=\"https://github.com/notthebestdev/markdown-to-docx/commit/5d283022d3713493fe3af193e9a16c224b18d952\">5d28302</a>\n- <a href=\"https://github.com/notthebestdev/no-arrows/commit/e18927433dcafd011aec20e60a17972227c68123\">e189274</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/0b2586770dd7d84b3dfa01377ea8386ccb53104d\">0b25867</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c98875f99c25b9a7ac9f8a3058f39e6e1e3a1019\">c98875f</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c4990e955e3c0fb05dbd49782f867946f87a9aef\">c4990e9</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/837c7376166d5a81f079380f041b80f1eb77170b\">837c737</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/ad63614e4a8714c752c35edb4a469e3d0d481c8a\">ad63614</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/104c9af7f8c53b97766e4f8044587da8fdc90769\">104c9af</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -117,5 +117,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/notthebestdev/commit/cf8ece7fd2dda2728ae7301b3d2531a79f293f0e\">cf8ece7</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/no-arrows/commit/ecae8ce3e6c590a0d202ef513d63c9f6a892c1ad\">ecae8ce</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/0b2586770dd7d84b3dfa01377ea8386ccb53104d\">0b25867</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c98875f99c25b9a7ac9f8a3058f39e6e1e3a1019\">c98875f</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c4990e955e3c0fb05dbd49782f867946f87a9aef\">c4990e9</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/837c7376166d5a81f079380f041b80f1eb77170b\">837c737</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
