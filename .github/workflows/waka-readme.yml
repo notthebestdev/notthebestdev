@@ -1,5 +1,7 @@
 name: Waka Readme
 
+permissions: write-all
+
 on:
   # for manual workflow trigger
   workflow_dispatch:
@@ -14,5 +16,5 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
