@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/e87d119328ac487d1b67f38b5fe74aa5d0fd5c22\">e87d119</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/22a29e0d1a39de55c2c71c56d41bcf06bf13efcd\">22a29e0</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/e87d119328ac487d1b67f38b5fe74aa5d0fd5c22\">e87d119</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updated\".",
-    "body": "My favorite commit message words are:\n\n1. updated (used 168 times)\n2. new (used 153 times)\n3. update (used 130 times)\n4. add (used 121 times)\n5. waka-readme (used 117 times)",
+    "body": "My favorite commit message words are:\n\n1. updated (used 172 times)\n2. new (used 153 times)\n3. update (used 132 times)\n4. add (used 121 times)\n5. waka-readme (used 117 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
