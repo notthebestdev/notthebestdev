@@ -6,9 +6,9 @@ I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/sameerasw/my-internet/issues/1632">#1632</a>: [THEME] mcpedl.com
 - <a href="https://github.com/sameerasw/my-internet/issues/1710">#1710</a>: [THEME] pagespeed.web.dev
-- <a href="https://github.com/electrikmilk/cherri/issues/146">#146</a>: Panic / infinite include resolution with getDictionary() when using actions/web
 - <a href="https://github.com/sameerasw/my-internet/issues/1558">#1558</a>: [THEME] www.userscript.zone
 - <a href="https://github.com/sameerasw/my-internet/issues/1588">#1588</a>: [THEME] www.apple.com
+- <a href="https://github.com/electrikmilk/cherri/issues/146">#146</a>: Panic / infinite include resolution with getDictionary() when using actions/web
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
