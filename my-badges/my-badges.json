@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/22a29e0d1a39de55c2c71c56d41bcf06bf13efcd\">22a29e0</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/e87d119328ac487d1b67f38b5fe74aa5d0fd5c22\">e87d119</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/22a29e0d1a39de55c2c71c56d41bcf06bf13efcd\">22a29e0</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/44baae6b9fd544050d864324191e9d47e6294f04\">44baae6</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/e87d119328ac487d1b67f38b5fe74aa5d0fd5c22\">e87d119</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updated\".",
-    "body": "My favorite commit message words are:\n\n1. updated (used 172 times)\n2. new (used 153 times)\n3. update (used 132 times)\n4. add (used 121 times)\n5. waka-readme (used 117 times)",
+    "body": "My favorite commit message words are:\n\n1. updated (used 176 times)\n2. new (used 155 times)\n3. update (used 134 times)\n4. add (used 127 times)\n5. waka-readme (used 117 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1632\">#1632</a>: [THEME] mcpedl.com\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1710\">#1710</a>: [THEME] pagespeed.web.dev\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1558\">#1558</a>: [THEME] www.userscript.zone\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1588\">#1588</a>: [THEME] www.apple.com\n- <a href=\"https://github.com/electrikmilk/cherri/issues/146\">#146</a>: Panic / infinite include resolution with getDictionary() when using actions/web",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1632\">#1632</a>: [THEME] mcpedl.com\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1710\">#1710</a>: [THEME] pagespeed.web.dev\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1558\">#1558</a>: [THEME] www.userscript.zone\n- <a href=\"https://github.com/sameerasw/my-internet/issues/1588\">#1588</a>: [THEME] www.apple.com\n- <a href=\"https://github.com/electrikmilk/cherri/issues/146\">#146</a>: Panic / infinite include resolution with getDictionary() when using actions/web\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/0b2586770dd7d84b3dfa01377ea8386ccb53104d\">0b25867</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c98875f99c25b9a7ac9f8a3058f39e6e1e3a1019\">c98875f</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c4990e955e3c0fb05dbd49782f867946f87a9aef\">c4990e9</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/837c7376166d5a81f079380f041b80f1eb77170b\">837c737</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/ad63614e4a8714c752c35edb4a469e3d0d481c8a\">ad63614</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/104c9af7f8c53b97766e4f8044587da8fdc90769\">104c9af</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/74274ea63b8c820b28925aecb848878f39678fd7\">74274ea</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/bd69d42bc50c133f316fca2a6b732cd3ce13bece\">bd69d42</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/6ab1341664a0d30c77a79563167ab07e6b97732f\">6ab1341</a>\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/29dc7d352563c0e6e224ffef66e4b18fad9db963\">29dc7d3</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/0b2586770dd7d84b3dfa01377ea8386ccb53104d\">0b25867</a>\n- <a href=\"https://github.com/notthebestdev/someoneback/commit/c98875f99c25b9a7ac9f8a3058f39e6e1e3a1019\">c98875f</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {

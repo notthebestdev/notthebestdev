@@ -10,5 +10,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/sameerasw/my-internet/issues/1588">#1588</a>: [THEME] www.apple.com
 - <a href="https://github.com/electrikmilk/cherri/issues/146">#146</a>: Panic / infinite include resolution with getDictionary() when using actions/web
 
+ And many more...
+
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
