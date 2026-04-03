@@ -131,5 +131,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/notthebestdev/commit/e61fc1204aaea3f787c7b62b7278bdabe76c713f\">e61fc12</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/a3a784d0ca516d83f4b0faf0cc0b42629085ec2e\">a3a784d</a>: fix: this is the final fix i hope\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/e78faf12da51c828f772d8e7c616690984bd1205\">e78faf1</a>: fix: ci and workflow\n\n- coding on mobile is hard...\n- <a href=\"https://github.com/notthebestdev/geo-invaders/commit/385364b665985baa17b6b5ca7443695ad8d2a676\">385364b</a>: fix: fix the dependabot workflow for changesets",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   }
 ]
