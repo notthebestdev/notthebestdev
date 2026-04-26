@@ -38,14 +38,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updated\".",
-    "body": "My favorite commit message words are:\n\n1. updated (used 198 times)\n2. new (used 167 times)\n3. update (used 147 times)\n4. add (used 146 times)\n5. waka-readme (used 117 times)",
+    "body": "My favorite commit message words are:\n\n1. updated (used 198 times)\n2. new (used 167 times)\n3. add (used 149 times)\n4. update (used 147 times)\n5. waka-readme (used 117 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/vesktop.dev/commit/6499cd48c8a51f6859643653ec8b95f901ddb032\">6499cd4</a>: fix: oops\n- <a href=\"https://github.com/notthebestdev/vesktop.dev/commit/9112a39e20bc190ba783182555ecbd67111c2d2f\">9112a39</a>: fix(docs): update homebrew installation command for macOS\n\n* Changed installation command to use --cask for Vesktop\n* Ensures correct installation method for users",
+    "body": "Commits:\n\n- <a href=\"https://github.com/notthebestdev/Papillon/commit/6bf7d4f1b9d7313a2738d700c7171397095a3218\">6bf7d4f</a>: fix: add for release workflow\n- <a href=\"https://github.com/notthebestdev/Papillon/commit/c74776536f6c2af997b97686f51ed3a5899a880b\">c747765</a>: fix: add for merge workflow",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
