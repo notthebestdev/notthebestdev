@@ -7,7 +7,7 @@ My favorite commit message words are:
 1. updated (used 202 times)
 2. new (used 167 times)
 3. add (used 149 times)
-4. update (used 148 times)
+4. update (used 149 times)
 5. waka-readme (used 117 times)
 
 
