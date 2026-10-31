@@ -30,19 +30,6 @@
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <!-- my-badges end -->
 
-## 📊 Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-Luau           13 hrs 26 mins        █████████████░░░░░░░░░░░░   52.31 %
-Markdown       4 hrs 57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Lua            2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Other          1 hr 18 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Python         1 hr 2 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 👾 Discord Status
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/759076162935717901?showDisplayName=true)](https://discord.com/users/759076162935717901)
